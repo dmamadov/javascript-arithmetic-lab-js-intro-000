@@ -24,5 +24,5 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return n.toString('Ox2328', 10)
+  return n.toString('0x2328', 10)
 }
