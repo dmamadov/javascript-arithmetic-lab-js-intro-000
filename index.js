@@ -24,9 +24,5 @@ function decrement(n) {
 }
 
 function makeInt(n) {
-  return toString(n)
-}
-
-function makeInt(n) {
-  return
+  return n.toString(n)
 }
