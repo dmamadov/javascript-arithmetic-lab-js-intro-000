@@ -29,4 +29,4 @@ function makeInt(n) {
 
 /*function makeInt(n) {
   return n.parseInt('0x2328', 10)
-}
+}*/
