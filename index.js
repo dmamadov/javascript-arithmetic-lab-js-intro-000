@@ -30,3 +30,7 @@ function makeInt(n) {
 /*function makeInt(n) {
   return n.parseInt('0x2328', 10)
 }*/
+
+function preserveDecimal(n) {
+  return n.parseFloat(n)
+}
